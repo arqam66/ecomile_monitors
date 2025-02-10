@@ -1,53 +1,51 @@
-# EcoMile Monitor
+# Ecomile
 
-A web application for monitoring eco-friendly mileage and tracking vehicle efficiency with detailed insights.
+Ecomile is a web application designed to promote sustainable and eco-friendly transportation solutions. You can visit the live site [here](https://ecomile-5cae9.web.app/).
 
-## 🌍 Live Demo
-[EcoMile Monitor](https://ecomile-monitor.netlify.app/)
+## Features
+- User-friendly interface for eco-conscious travelers
+- Real-time data on sustainable transport options
+- Integration with maps and location services
+- Responsive design for all devices
+- Supports multi-language functionality
+- Dark mode for better user experience
 
-## 🚀 Features
-- Track vehicle mileage and fuel consumption with accuracy
-- Compare fuel efficiency across multiple trips with visual charts
-- Get real-time insights for eco-friendly driving habits
-- Intuitive user interface for easy navigation and data input
+## Technologies Used
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Backend:** Firebase (Authentication, Firestore, Hosting)
+- **Deployment:** Firebase Hosting
+- **State Management:** Redux
 
-## 🛠️ Technologies Used
-- **Frontend:** React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express (if applicable)
-- **Database:** Firebase / MongoDB / SQL (mention if used)
-- **Hosting:** Netlify
-
-## 🏗️ Setup & Installation
+## Installation & Setup
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/ecomile-monitor.git
+   ```bash
+   git clone https://github.com/yourusername/ecomile.git
+   cd ecomile
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd ecomile-monitor
-   ```
-3. Install dependencies:
-   ```sh
+2. Install dependencies:
+   ```bash
    npm install
    ```
-4. Run the development server:
-   ```sh
-   npm run dev
+3. Run the development server:
+   ```bash
+   npm start
    ```
-5. Open `http://localhost:3000` in your browser.
 
-## 🌍 Deployment
-The project is deployed on **Netlify**. For deployment:
-```sh
-npm run build
-netlify deploy
-```
+## Deployment
+To deploy the project to Firebase Hosting:
+1. Build the project:
+   ```bash
+   npm run build
+   ```
+2. Deploy to Firebase:
+   ```bash
+   firebase deploy
+   ```
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to submit issues and pull requests to improve the project.
+## Contributing
+Contributions are welcome! Please submit a pull request or open an issue for discussion.
 
-## 📜 License
+## License
 This project is licensed under the MIT License.
 
----
-🚗 **Drive Green, Drive Smart!**
+
