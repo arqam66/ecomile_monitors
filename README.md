@@ -1,6 +1,3 @@
-Here's a README for your **Ecomile Monitors** project, with the structure and files you listed. This will help users understand the layout of your project and how to get started.
-
----
 
 # Ecomile Monitors
 
